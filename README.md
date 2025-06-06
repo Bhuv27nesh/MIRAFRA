@@ -12,9 +12,9 @@ checking for invalid command conditions.
 
 ## OBJECTIVE
 
-The objective of the project is to: 
- -> Design a synthesizable ALU using Verilog. 
- -> Support parameterized command, input and output widths as required. 
- -> Perform both signed and unsigned addition and subtraction, with appropriate generation of carry-out and overflow flags. 
- -> Execute the specified command for the given inputs with a one-cycle delay, except for the multiplication operation, which produces the result at third clock cycle. 
- -> Ensure the error flag is raised under defined invalid conditions.
+The objective of the project is to:   
+ -> Design a synthesizable ALU using Verilog.   
+ -> Support parameterized command, input and output widths as required.   
+ -> Perform both signed and unsigned addition and subtraction, with appropriate generation of carry-out and overflow flags.   
+ -> Execute the specified command for the given inputs with a one-cycle delay, except for the multiplication operation, which produces the result at third clock cycle.    
+ -> Ensure the error flag is raised under defined invalid conditions.  
