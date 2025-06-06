@@ -1,5 +1,5 @@
 # ALU 
-## A Paramterized Design Arithmetic and Logical Unit
+## A Paramterized Design on Arithmetic and Logical Unit
 
 ## INTRODUCTION
 
